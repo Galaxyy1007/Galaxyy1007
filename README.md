@@ -2,8 +2,6 @@
 <h3 align="center">Student Java Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd2dTNudnFuODF3dW9ibHAzeHpxeXM2bDkwbHV6MjFoZnRlYzlocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=galaxyy1007&label=Profile%20views&color=0e75b6&style=flat" alt="galaxyy1007" /> </p>
-
 - 🔭 I’m currently working on [UltimatePlugin](https://github.com/Galaxyy1007/UltimatePlugin)
 
 - 🌱 I’m currently learning **Java , Minecraft Development , C#**
