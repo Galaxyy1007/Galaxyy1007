@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java , Minecraft Development , C#**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Galaxyy1007](https://github.com/Galaxyy1007)
+- 👨‍💻 All of my projects are available at [https://github.com/Galaxyy1007](https://github.com/Galaxyy1007) or https://galaxyy1007.github.io/Portfolio/
 
 - 📫 How to reach me **mtdekker107@gmail.com**
 
