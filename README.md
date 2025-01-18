@@ -2,8 +2,6 @@
 <h3 align="center">Student Java Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXd2dTNudnFuODF3dW9ibHAzeHpxeXM2bDkwbHV6MjFoZnRlYzlocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif">
 
-- 🔭 I’m currently working on [UltimatePlugin](https://github.com/Galaxyy1007/UltimatePlugin)
-
 - 🌱 I’m currently learning **Java , Minecraft Development , C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Galaxyy1007](https://github.com/Galaxyy1007)
